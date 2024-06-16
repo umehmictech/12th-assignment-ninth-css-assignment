@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: url(survey\ image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+
+}
+
+.title {
+
+    position: fixed;
+    color: white;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+
+
+
+
+}
+
+.form {
+    background-color: black;
+    overflow-y: auto;
+    width: 50%;
+    height: 600px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    */
+}
+
+.form .forms {
+    margin: 30px;
+    color: white;
+}
